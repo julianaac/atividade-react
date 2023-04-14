@@ -1,0 +1,12 @@
+.div{
+    height: 400px;
+    width: 300px;
+    background-color: white;
+}
+.menosAvaliado {
+    color: red;
+}
+
+.titulo {
+    text-transform: uppercase;
+}
